@@ -1,0 +1,36 @@
+* {
+margin: 0;
+padding:0;
+box-sizing: border-box;
+}
+body{
+    max-width 1000px;
+    height: auto;
+    background:#fdfdfb;
+    margin:10px;
+    padding: 10px;
+}
+header{
+    margin:10px;
+    padding: 10px;
+}
+main{
+    margin: 10px;
+    padding: 10px;
+}
+
+footer{
+    margin: 10px;
+    padding: 10px;
+}
+.item-ul-index{ 
+    display: inline-block;
+}
+
+a{
+   text-decoration: none; 
+}
+
+.ul-servicios{
+    display:block;
+}
